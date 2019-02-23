@@ -3,8 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-
-# Testing
 ---
 
-# Test
+## Current Projects
+
+* DjangoCon US 2019, Chair
+* Django Software Foundation, Treasurer
