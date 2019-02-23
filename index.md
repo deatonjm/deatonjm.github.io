@@ -4,3 +4,10 @@
 
 layout: home
 ---
+
+# Welcome to my page!
+
+## Current Projects
+
+I am chairing the DjangoCon US 2019 Conference in San Diego, California
+I am acting as Treasurer for the Django Software Foundation
