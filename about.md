@@ -19,9 +19,6 @@ You can find the source code for Jekyll at GitHub:
 
 I am currently a Salesforce developer working in Wilmington, North Carolina. This year, I am chairing DjangoCon US 2019, a national technology conference for the Django web framework. I have also accepted a seat on the Django Software Foundation's board and am acting as their Treasurer.
 
-I love to code, but I also enjoy project management and product ownership. I am familiar with agile practices and scrum, and I like helping teams figure out a flavor of those two ideologies that work best for them. In 2019, I will be looking to obtain a PMP certification as well as a Scrum Master certification.
+I love to code, but I also enjoy project management and product ownership. Ferreting out a client's true needs and working with them to identify ways I can improve their workflows, either by making processes more efficient or more intuitive is my favorite part of the job. Contributing to open source projects and giving back to the tech community is super important to me and extremely rewarding. I am familiar with agile practices and scrum, and I like helping teams figure out a flavor of those two ideologies that work best for them. 
 
 In my free time, I enjoy taking my favorite little pup for walks, playing video/board games, playing piano, and cooking.
-
-<img src="/assets/images/code_reviews.JPG" alt="Code Reviews" width="200" height="200">
-<img src="/assets/images/better_life.JPG" alt="I Work Hard So My Dog Can Have A Better Life" width="200" height="200">

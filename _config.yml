@@ -16,11 +16,12 @@
 title: Jessica Deaton
 email: jessicadeaton@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Developer
+  Developer, Project Manager, Product Manager, Human
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: __deatz__
 github_username:  deatonjm
+linkedin_username: jessica-deaton
 
 # Build settings
 markdown: kramdown
@@ -34,6 +35,9 @@ titles_from_headings:
   strip_title:  true
   collections:  true
 
+include:
+  - _pages
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
@@ -45,3 +49,4 @@ titles_from_headings:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
