@@ -6,7 +6,7 @@ layout: home
 ---
 <h1>Oh, cool, you made it!</h1>
 
-You found my personal website which is forever a work in progress and my favorite website to break while trying to teach myself something new. "Why not break a side-project?", you might ask. To which I will reply, "Where's the fun in that?" 
+You found my personal website which is forever a work in progress and my favorite website to break while trying to teach myself something new. "Why not break a side project?" you might ask. To which I will reply, "Where's the fun in that?" 
 
 Along with several typos, on this site you will find posts about things I'm learning, things I'm trying, things I'm doing poorly, things I'm doing well, things I want to do better, and probably other things. So basically things.
 
