@@ -14,12 +14,4 @@ permalink: /now/
 * Studying for a PMP certification
 * Researching scrum certifications
 
-
-
-
-
-
-
-
-
-_This page is inspired by [Jeff Triplett's Now Page](https://jefftriplett.com/now/) which was inspired by [Aaron Sumner's Now Page](aaronsumner.com/pages/now.html) which was inspired by [Derek Sivers's Now Page Movement.](https://sivers.org/now) It is current as of February 24th, 2019._
+_This page is inspired by [Jeff Triplett's Now Page](https://jefftriplett.com/now/) which was inspired by [Derek Sivers's Now Page Movement.](https://sivers.org/now) It is current as of February 24th, 2019._
