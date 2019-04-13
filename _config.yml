@@ -25,7 +25,8 @@ linkedin_username: jessica-deaton
 
 # Build settings
 markdown: kramdown
-theme: minima
+# theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
   - jekyll-titles-from-headings
