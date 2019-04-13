@@ -23,19 +23,17 @@ twitter_username: __deatz__
 github_username:  deatonjm
 linkedin_username: jessica-deaton
 
-# # Build settings
-# markdown: kramdown
-# theme: minima
-# plugins:
-#   - jekyll-feed
-#   - jekyll-titles-from-headings
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-titles-from-headings
 
-# titles_from_headings:
-#   enabled:      true
-#   strip_title:  true
-#   collections:  true
-
-theme: jekyll-theme-cayman
+titles_from_headings:
+  enabled:      true
+  strip_title:  true
+  collections:  true
 
 include:
   - _pages
