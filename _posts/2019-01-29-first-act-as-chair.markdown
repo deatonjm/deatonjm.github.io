@@ -26,7 +26,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 I am so excited to be chairing DjangoCon US 2019 this year. I think it will bring a lot of challenges but also a lot of opportunity for personal and professional growth. 
 
-My first initiative as chair is to build out two new teams: Automation and Documenation. To my knowledge, this will be the first time we have tried having teams that are not bound by the conference timeline and that are dedicated to improving the conference organizing experience.
+My first initiative as chair is to build out two new teams: Automation and Documentation. To my knowledge, this will be the first time we have tried having teams that are not bound by the conference timeline and that are dedicated to improving the conference organizing experience.
 
 I'm not expecting wild success in this first year, but I am hopeful that this will lead to several contributions that make organzing DjangoCon US less stressful and intimidating for organizers.
 
